@@ -1,7 +1,7 @@
 {
     "name": "hr.backend",
-    "description": "Backend with fallback for HappyRhino",
-    "version": "0.1.0",
+    "description": "Backend with offline fallback for HappyRhino",
+    "version": "0.1.1",
     "main": "./lib/index.js",
     "peerDependencies": {
         "q": "*",
